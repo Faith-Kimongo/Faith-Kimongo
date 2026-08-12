@@ -8,7 +8,7 @@ Senior Software Engineer with five years of experience designing data-driven app
 - 💡 Ask me about Flask, Laravel, Vue.js, ECharts, Docker, building dashboards, and co-authoring research protocols.
 - 💬 How to reach me: Email: faithvictor78@gmail.com, [LinkedIn](https://www.linkedin.com/in/faith-kimongo/)
 - ♀️ Pronouns: SHE/HER
-- 🤓 Fun fact: I have participated in an AI hackathon that successfully won a [Guinness World Record]([YOUR_LINK_HERE](https://try.ka.nz/certificate/KANZ-GWR-98ABE3E23E?certificate_type=gwr2&recipient_name=Faith+Kimongo&issue_date=July+15%2C+2026&certificate_id=KANZ-GWR-98ABE3E23E))!
+- 🤓 Fun fact: I have participated in an AI hackathon that successfully won a Guinness World Record [Check here](https://try.ka.nz/certificate/KANZ-GWR-98ABE3E23E?certificate_type=gwr2&recipient_name=Faith+Kimongo&issue_date=July+15%2C+2026&certificate_id=KANZ-GWR-98ABE3E23E)!
 
 <!--
 **Faith-Kimongo/Faith-Kimongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
