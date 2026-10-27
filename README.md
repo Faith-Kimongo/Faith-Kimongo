@@ -3,7 +3,7 @@
 Senior Software Engineer with five years of experience designing data-driven applications across multiple domains. I specialize in full-stack development, focusing on building scalable systems and interactive software that transform complex datasets into actionable insights.
 
 - 🔭 I’m currently working on high performance data visualization tools and scalable backend APIs using Flask and Python.
-- 📖 I’m currently learning AI engineering, RAG & agentic AI and Machine Learning.
+- 📖 I’m currently learning and incorporating in my work AI engineering, RAG & agentic AI and Machine Learning.
 - 🤝 I’m looking to collaborate on open source projects, and projects that are real-time and bring real impact to the world: data, software engineering, and research.
 - 💡 Ask me about Flask, Laravel, Vue.js, ECharts, Docker, building dashboards, and co-authoring research protocols.
 - 💬 How to reach me: Email: faithvictor78@gmail.com, [LinkedIn](https://www.linkedin.com/in/faith-kimongo/)
